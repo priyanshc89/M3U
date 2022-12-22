@@ -1,0 +1,212 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/epg.xml"
+
+#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://reshort.in/live.php?c=Colors_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://reshort.in/live.php?c=Sony_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+http://reshort.in/live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="476" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+http://reshort.in/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://reshort.in/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="155" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+http://reshort.in/live.php?c=Six_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="383" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png",Times NOW
+http://reshort.in/live.php?c=Times_NOW&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="162" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
+http://reshort.in/live.php?c=Ten_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="173" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
+http://reshort.in/live.php?c=Aaj_Tak&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="177" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India
+http://reshort.in/live.php?c=ABP_News_India&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="891" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
+http://reshort.in/live.php?c=Ten2_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="492" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",CNN NEWS 18
+http://reshort.in/live.php?c=CNN_NEWS_18&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1145" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+http://reshort.in/live.php?c=MTV_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="753" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+http://reshort.in/live.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="858" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
+http://reshort.in/live.php?c=Republic_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
+http://reshort.in/live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="821" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
+http://reshort.in/live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="146" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",History TV18 HD
+http://reshort.in/live.php?c=History_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="479" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
+http://reshort.in/live.php?c=TLC_HD_World&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="561" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
+http://reshort.in/live.php?c=Food_Food&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="560" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",GOOD TiMES
+http://reshort.in/live.php?c=NDTV_Good_Times&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="657" group-title="Business" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+http://reshort.in/live.php?c=Zee_Business&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="143" group-title="Business" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
+http://reshort.in/live.php?c=CNBC_Tv18_Prime_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="259" group-title="Business" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit
+http://reshort.in/live.php?c=NDTV_Profit&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="190" group-title="Business" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
+http://reshort.in/live.php?c=CNBC_Awaaz&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="175" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
+http://reshort.in/live.php?c=Aastha&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="594" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",Aastha Bhajan
+http://reshort.in/live.php?c=Aastha_Bhaja&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="288" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png",Sanskar
+http://reshort.in/live.php?c=Sanskar&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="472" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
+http://reshort.in/live.php?c=And_TV_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="471" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+http://reshort.in/live.php?c=Sony_SAB_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1157" group-title="Entertainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
+http://reshort.in/live.php?c=Comedy_Central_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="481" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic
+http://reshort.in/live.php?c=Epic_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1158" group-title="Entertainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+http://reshort.in/live.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="527" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
+http://reshort.in/live.php?c=ID.PNG&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="528" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",DD India
+http://reshort.in/live.php?c=DD_India&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="202" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+http://reshort.in/live.php?c=DD_National&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="762" group-title="Movies" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+http://reshort.in/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="185" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+http://reshort.in/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="487" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
+http://reshort.in/live.php?c=Zee_Classic&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="485" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr 10
+http://reshort.in/live.php?c=Enterr_10&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="488" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
+http://reshort.in/live.php?c=Zee_Actio&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="415" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+http://reshort.in/live.php?c=Zee_Anmol_Cinema&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="231" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
+http://reshort.in/live.php?c=IBN_7&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="235" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
+http://reshort.in/live.php?c=India_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="258" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
+http://reshort.in/live.php?c=NDTV_India&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="504" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+http://reshort.in/live.php?c=Zee_News&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="876" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png",Times Now World
+http://reshort.in/live.php?c=Times_Now_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="255" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
+http://reshort.in/live.php?c=NDTV_24x7&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="892" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
+http://reshort.in/live.php?c=Ten3_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="587" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM
+http://reshort.in/live.php?c=9XM&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="592" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
+http://reshort.in/live.php?c=Zoom&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="440" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
+http://reshort.in/live.php?c=9X_Jalwa&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
+http://reshort.in/live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="164" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travelxp HD
+http://reshort.in/live.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="566" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+http://reshort.in/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="575" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
+http://reshort.in/live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="578" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
+http://reshort.in/live.php?c=History_18_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="568" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
+http://reshort.in/live.php?c=Discovery_Science&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="567" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png",Animal Planet English
+http://reshort.in/live.php?c=Animal_Planet_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="242" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png",Discovery
+http://reshort.in/live.php?c=Discovery&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="562" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
+http://reshort.in/live.php?c=Travel_XP&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="574" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png",TLC English
+http://reshort.in/live.php?c=TLC_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="571" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",TLC Hindi
+http://reshort.in/live.php?c=TLC_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="489" group-title="Business" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",CNBC Tv 18
+http://reshort.in/live.php?c=CNBC_Tv_18&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="212" group-title="Business" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",ET Now
+http://reshort.in/live.php?c=ET_Now&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1907" group-title="Business" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png",ET Now Swadesh
+http://reshort.in/live.php?c=ET_Now_Swadesh&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="801" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png",Divya TV
+http://reshort.in/live.php?c=Divya_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="593" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png",Sadhna
+http://reshort.in/live.php?c=Sadhna&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="597" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png",Satsang TV
+http://reshort.in/live.php?c=Satsang_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1407" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png",Sai Leela
+http://reshort.in/live.php?c=Sai_Leela&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="963" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png",Arre HD
+http://reshort.in/live.php?c=Arre&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1066" group-title="Entertainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png",The Q
+http://reshort.in/live.php?c=TheQIndia&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1920" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TheQ_Kahaniyan.png",The Q Kahaniyan
+http://reshort.in/live.php?c=TheQ_Kahaniya&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="499" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
+http://reshort.in/live.php?c=News_Natio&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="493" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",India Today
+http://reshort.in/live.php?c=India_Today&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="204" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
+http://reshort.in/live.php?c=DD_Sports&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="541" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",Discovery Turbo
+http://reshort.in/live.php?c=Discovery_Turbo&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="852" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
+http://reshort.in/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="652" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan
+http://reshort.in/live.php?c=Zee_SANGAM&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="491" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png",Mirror Now
+http://reshort.in/live.php?c=Mirror_Now&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="193" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png",CNN
+http://reshort.in/live.php?c=CNN&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="412" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png",Wion
+http://reshort.in/live.php?c=Wio&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="838" group-title="News" tvg-language="French" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png",France 24
+http://reshort.in/live.php?c=France_24&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="888" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png",Insight HD
+http://reshort.in/live.php?c=Insight&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="156" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
+http://reshort.in/live.php?c=Star_Gold_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="247" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK.png",Movies OK HD
+http://reshort.in/live.php?c=Movies_OK&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="460" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1
+http://reshort.in/live.php?c=Star_Sports_Select_HD_1&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="362" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",Star Sports Hindi 1
+http://reshort.in/live.php?c=Star_Sports_3&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="461" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2
+http://reshort.in/live.php?c=Star_Sports_Select_HD_2&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1598" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png",FTV HD
+http://reshort.in/live.php?c=FTV_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1599" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png",InWild HD
+http://reshort.in/live.php?c=InWild_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1602" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Smithsonian_HD.png",Smithsonian HD
+http://reshort.in/live.php?c=Smithsonian_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1736" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Luxe_Tv_HD.png",LUXE TV HD
+http://reshort.in/live.php?c=Luxe_Tv_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1849" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_At_Dubai_Expo.png",India At Dubai Expo
+http://reshort.in/live.php?c=India_At_Dubai_Expo&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1148" group-title="Shopping" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST8_HD.png",TEST8 HD
+http://reshort.in/live.php?c=TEST8_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1225" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png",Click Life
+http://reshort.in/live.php?c=Click_Life&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1266" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png",Bflix Movies
+http://reshort.in/live.php?c=Bflix_Movies&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1290" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png",Stars Tell
+http://reshort.in/live.php?c=StarTell&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1292" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png",Wellness
+http://reshort.in/live.php?c=Wellness_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1320" group-title="Music" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png",VH1 HD
+http://reshort.in/live.php?c=VH1_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1477" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+http://reshort.in/live.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1596" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png",MY ZEN HD
+http://reshort.in/live.php?c=MY_ZEN_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1955" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png",Foodxp
+http://reshort.in/live.php?c=Food_XP&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1961" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",Shemaroo TV
+http://reshort.in/live.php?c=Shemaroo_TV&q=1200&e=junk.m3u8
+#EXTINF:undefined
+okay
